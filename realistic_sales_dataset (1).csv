@@ -1,0 +1,301 @@
+order_id,order_date,customer_id,product,category,quantity,price,discount,city,payment_mode,sales
+ORD10000,2024-01-01,1102,Headphones,Accessories,5,20603,0.2,Chennai,Credit Card,82412.0
+ORD10001,2024-01-02,1179,Laptop,Accessories,4,14882,0.1,Chennai,Net Banking,53575.2
+ORD10002,2024-01-03,1092,Keyboard,Electronics,1,19255,0.0,Bangalore,Net Banking,19255.0
+ORD10003,2024-01-04,1014,Monitor,Electronics,5,36159,0.1,Mumbai,Net Banking,162715.5
+ORD10004,2024-01-05,1106,Keyboard,Electronics,5,4256,0.05,Delhi,UPI,20216.0
+ORD10005,2024-01-06,1071,Monitor,Accessories,3,21109,0.15,Hyderabad,Cash,53827.95
+ORD10006,2024-01-07,1188,Headphones,Accessories,5,49038,0.2,Kolkata,Net Banking,196152.0
+ORD10007,2024-01-08,1020,Monitor,Electronics,5,16978,0.0,Hyderabad,UPI,84890.0
+ORD10008,2024-01-09,1102,Laptop,Accessories,5,35942,0.2,Kolkata,Cash,143768.0
+ORD10009,2024-01-10,1121,Headphones,Electronics,5,40166,0.05,Bangalore,Credit Card,190788.5
+ORD10010,2024-01-11,1074,Laptop,Electronics,2,10647,0.2,Chennai,UPI,17035.2
+ORD10011,2024-01-12,1087,Mouse,Electronics,2,34061,0.0,Bangalore,Debit Card,68122.0
+ORD10012,2024-01-13,1116,Mobile,Accessories,3,59678,0.05,Mumbai,UPI,170082.3
+ORD10013,2024-01-14,1099,Monitor,Accessories,1,35384,0.2,Mumbai,UPI,28307.2
+ORD10014,2024-01-15,1103,Mobile,Electronics,5,6279,0.15,Kolkata,Cash,26685.75
+ORD10015,2024-01-16,1151,Mobile,Electronics,1,12798,0.05,Delhi,Credit Card,12158.1
+ORD10016,2024-01-17,1130,Monitor,Electronics,1,14653,0.05,Delhi,Debit Card,13920.35
+ORD10017,2024-01-18,1149,Headphones,Electronics,3,44379,0.15,Kolkata,Net Banking,113166.45
+ORD10018,2024-01-19,1052,Mouse,Accessories,5,11289,0.1,Mumbai,Net Banking,50800.5
+ORD10019,2024-01-20,1001,Laptop,Accessories,5,44665,0.0,Mumbai,UPI,223325.0
+ORD10020,2024-01-21,1087,Keyboard,Electronics,4,13499,0.1,Mumbai,Cash,48596.4
+ORD10021,2024-01-22,1157,Laptop,Electronics,1,55818,0.2,Bangalore,Cash,44654.4
+ORD10022,2024-01-23,1037,Keyboard,Accessories,1,1314,0.15,Mumbai,Net Banking,1116.9
+ORD10023,2024-01-24,1129,Laptop,Accessories,2,49997,0.1,Hyderabad,Debit Card,89994.6
+ORD10024,2024-01-25,1191,Monitor,Electronics,4,11041,0.05,Chennai,Credit Card,41955.8
+ORD10025,2024-01-26,1187,Mouse,Electronics,2,25438,0.2,Mumbai,Debit Card,40700.8
+ORD10026,2024-01-27,1020,Keyboard,Electronics,2,2943,0.2,Kolkata,Credit Card,4708.8
+ORD10027,2024-01-28,1160,Smartwatch,Accessories,2,10957,0.1,Chennai,Net Banking,19722.6
+ORD10028,2024-01-29,1057,Headphones,Accessories,3,10880,0.1,Bangalore,Credit Card,29376.0
+ORD10029,2024-01-30,1021,Laptop,Accessories,3,8283,0.15,Kolkata,Cash,21121.65
+ORD10030,2024-01-31,1088,Laptop,Electronics,2,44741,0.0,Chennai,UPI,89482.0
+ORD10031,2024-02-01,1048,Keyboard,Electronics,4,17868,0.1,Kolkata,UPI,64324.8
+ORD10032,2024-02-02,1058,Headphones,Accessories,1,15828,0.1,Bangalore,Net Banking,14245.2
+ORD10033,2024-02-03,1169,Headphones,Accessories,4,57442,0.05,Hyderabad,Cash,218279.6
+ORD10034,2024-02-04,1187,Monitor,Electronics,5,26715,0.2,Bangalore,Debit Card,106860.0
+ORD10035,2024-02-05,1014,Smartwatch,Accessories,3,34095,0.0,Bangalore,Cash,102285.0
+ORD10036,2024-02-06,1189,Monitor,Accessories,1,27806,0.05,Kolkata,UPI,26415.7
+ORD10037,2024-02-07,1189,Monitor,Electronics,1,20415,0.15,Delhi,UPI,17352.75
+ORD10038,2024-02-08,1174,Monitor,Accessories,5,40415,0.15,Mumbai,Cash,171763.75
+ORD10039,2024-02-09,1189,Monitor,Electronics,5,37719,0.1,Mumbai,Cash,169735.5
+ORD10040,2024-02-10,1050,Monitor,Electronics,2,15843,0.1,Hyderabad,UPI,28517.4
+ORD10041,2024-02-11,1107,Mouse,Electronics,3,46903,0.15,Hyderabad,Debit Card,119602.65
+ORD10042,2024-02-12,1054,Headphones,Electronics,3,53528,0.1,Mumbai,Net Banking,144525.6
+ORD10043,2024-02-13,1063,Monitor,Electronics,4,39227,0.0,Delhi,Net Banking,156908.0
+ORD10044,2024-02-14,1130,Headphones,Electronics,2,626,0.1,Mumbai,Cash,1126.8
+ORD10045,2024-02-15,1050,Headphones,Electronics,2,52829,0.2,Delhi,Net Banking,84526.4
+ORD10046,2024-02-16,1134,Mobile,Accessories,2,28132,0.1,Hyderabad,UPI,50637.6
+ORD10047,2024-02-17,1020,Mouse,Electronics,2,42063,0.05,Chennai,UPI,79919.7
+ORD10048,2024-02-18,1072,Monitor,Electronics,3,44909,0.0,Kolkata,Cash,134727.0
+ORD10049,2024-02-19,1166,Laptop,Accessories,3,55676,0.05,Hyderabad,Cash,158676.6
+ORD10050,2024-02-20,1017,Keyboard,Accessories,2,54761,0.05,Hyderabad,Cash,104045.9
+ORD10051,2024-02-21,1131,Smartwatch,Accessories,4,21030,0.2,Bangalore,Debit Card,67296.0
+ORD10052,2024-02-22,1088,Laptop,Electronics,1,40464,0.0,Bangalore,Net Banking,40464.0
+ORD10053,2024-02-23,1059,Mouse,Accessories,1,44827,0.0,Bangalore,Cash,44827.0
+ORD10054,2024-02-24,1013,Keyboard,Electronics,4,3868,0.0,Kolkata,Credit Card,15472.0
+ORD10055,2024-02-25,1008,Mouse,Electronics,2,4297,0.0,Bangalore,Credit Card,8594.0
+ORD10056,2024-02-26,1089,Headphones,Electronics,3,48382,0.0,Delhi,UPI,145146.0
+ORD10057,2024-02-27,1052,Keyboard,Electronics,1,14218,0.2,Mumbai,Net Banking,11374.4
+ORD10058,2024-02-28,1129,Headphones,Accessories,5,35060,0.1,Chennai,Cash,157770.0
+ORD10059,2024-02-29,1083,Laptop,Accessories,5,11553,0.05,Hyderabad,Credit Card,54876.75
+ORD10060,2024-03-01,1091,Laptop,Electronics,4,22616,0.0,Delhi,Net Banking,90464.0
+ORD10061,2024-03-02,1110,Keyboard,Electronics,2,36744,0.1,Chennai,UPI,66139.2
+ORD10062,2024-03-03,1187,Keyboard,Electronics,1,36685,0.1,Delhi,Debit Card,33016.5
+ORD10063,2024-03-04,1198,Monitor,Accessories,2,2145,0.05,Delhi,Net Banking,4075.5
+ORD10064,2024-03-05,1171,Mouse,Electronics,1,48023,0.2,Hyderabad,Net Banking,38418.4
+ORD10065,2024-03-06,1007,Monitor,Electronics,4,59049,0.15,Mumbai,Debit Card,200766.6
+ORD10066,2024-03-07,1174,Mouse,Accessories,4,52682,0.15,Bangalore,Net Banking,179118.8
+ORD10067,2024-03-08,1034,Monitor,Accessories,5,19756,0.1,Kolkata,UPI,88902.0
+ORD10068,2024-03-09,1080,Headphones,Electronics,2,36340,0.05,Mumbai,UPI,69046.0
+ORD10069,2024-03-10,1163,Keyboard,Accessories,5,35122,0.15,Kolkata,Debit Card,149268.5
+ORD10070,2024-03-11,1049,Laptop,Accessories,2,53673,0.1,Hyderabad,Cash,96611.4
+ORD10071,2024-03-12,1103,Mouse,Electronics,5,37930,0.2,Hyderabad,Credit Card,151720.0
+ORD10072,2024-03-13,1131,Mouse,Accessories,3,39782,0.15,Hyderabad,Cash,101444.1
+ORD10073,2024-03-14,1001,Laptop,Electronics,3,54683,0.1,Chennai,Net Banking,147644.1
+ORD10074,2024-03-15,1133,Monitor,Accessories,3,3208,0.1,Kolkata,Credit Card,8661.6
+ORD10075,2024-03-16,1053,Mouse,Electronics,3,12194,0.0,Mumbai,Debit Card,36582.0
+ORD10076,2024-03-17,1105,Smartwatch,Electronics,1,56764,0.2,Mumbai,Debit Card,45411.2
+ORD10077,2024-03-18,1003,Headphones,Electronics,3,10024,0.0,Delhi,Credit Card,30072.0
+ORD10078,2024-03-19,1053,Keyboard,Accessories,4,32380,0.05,Delhi,UPI,123044.0
+ORD10079,2024-03-20,1190,Laptop,Electronics,4,58045,0.0,Delhi,Credit Card,232180.0
+ORD10080,2024-03-21,1145,Keyboard,Accessories,1,53159,0.0,Hyderabad,Net Banking,53159.0
+ORD10081,2024-03-22,1043,Smartwatch,Electronics,3,39724,0.15,Mumbai,UPI,101296.2
+ORD10082,2024-03-23,1161,Mouse,Electronics,3,37480,0.1,Kolkata,Debit Card,101196.0
+ORD10083,2024-03-24,1189,Mouse,Accessories,3,32909,0.2,Hyderabad,Credit Card,78981.6
+ORD10084,2024-03-25,1013,Smartwatch,Electronics,5,13724,0.0,Chennai,Cash,68620.0
+ORD10085,2024-03-26,1094,Laptop,Electronics,2,41238,0.2,Delhi,Cash,65980.8
+ORD10086,2024-03-27,1047,Headphones,Accessories,5,25650,0.0,Hyderabad,Net Banking,128250.0
+ORD10087,2024-03-28,1014,Mobile,Electronics,2,50188,0.05,Hyderabad,Cash,95357.2
+ORD10088,2024-03-29,1199,Laptop,Electronics,3,34893,0.0,Chennai,Credit Card,104679.0
+ORD10089,2024-03-30,1189,Mobile,Electronics,3,43582,0.15,Bangalore,Credit Card,111134.1
+ORD10090,2024-03-31,1039,Smartwatch,Electronics,5,8473,0.1,Mumbai,Cash,38128.5
+ORD10091,2024-04-01,1081,Monitor,Accessories,5,9077,0.05,Kolkata,Credit Card,43115.75
+ORD10092,2024-04-02,1110,Mobile,Accessories,2,8570,0.0,Bangalore,Net Banking,17140.0
+ORD10093,2024-04-03,1052,Headphones,Electronics,4,9166,0.2,Delhi,UPI,29331.2
+ORD10094,2024-04-04,1023,Monitor,Accessories,2,58261,0.05,Hyderabad,Net Banking,110695.9
+ORD10095,2024-04-05,1153,Mobile,Electronics,5,56142,0.05,Chennai,Net Banking,266674.5
+ORD10096,2024-04-06,1187,Smartwatch,Accessories,5,36868,0.0,Chennai,Credit Card,184340.0
+ORD10097,2024-04-07,1123,Monitor,Electronics,1,7283,0.05,Mumbai,UPI,6918.85
+ORD10098,2024-04-08,1040,Smartwatch,Electronics,5,46494,0.2,Bangalore,Credit Card,185976.0
+ORD10099,2024-04-09,1156,Mobile,Electronics,1,42414,0.05,Mumbai,Debit Card,40293.3
+ORD10100,2024-04-10,1014,Smartwatch,Electronics,4,5471,0.2,Hyderabad,Credit Card,17507.2
+ORD10101,2024-04-11,1044,Headphones,Electronics,2,13990,0.0,Mumbai,Credit Card,27980.0
+ORD10102,2024-04-12,1064,Mobile,Electronics,2,50857,0.1,Kolkata,Credit Card,91542.6
+ORD10103,2024-04-13,1088,Mobile,Accessories,1,46219,0.05,Chennai,UPI,43908.05
+ORD10104,2024-04-14,1070,Mobile,Electronics,2,45580,0.1,Chennai,Credit Card,82044.0
+ORD10105,2024-04-15,1008,Laptop,Accessories,5,2490,0.2,Delhi,UPI,9960.0
+ORD10106,2024-04-16,1087,Laptop,Electronics,3,5799,0.05,Delhi,Cash,16527.15
+ORD10107,2024-04-17,1128,Laptop,Accessories,1,46265,0.15,Hyderabad,Debit Card,39325.25
+ORD10108,2024-04-18,1135,Headphones,Accessories,2,20456,0.1,Kolkata,UPI,36820.8
+ORD10109,2024-04-19,1062,Monitor,Accessories,1,22859,0.05,Bangalore,Cash,21716.05
+ORD10110,2024-04-20,1138,Smartwatch,Electronics,1,46740,0.1,Mumbai,UPI,42066.0
+ORD10111,2024-04-21,1080,Mouse,Electronics,3,55972,0.05,Hyderabad,UPI,159520.2
+ORD10112,2024-04-22,1135,Mobile,Accessories,5,37648,0.0,Delhi,Debit Card,188240.0
+ORD10113,2024-04-23,1162,Smartwatch,Electronics,1,29234,0.1,Mumbai,Net Banking,26310.6
+ORD10114,2024-04-24,1162,Mobile,Accessories,2,5257,0.15,Delhi,Net Banking,8936.9
+ORD10115,2024-04-25,1032,Headphones,Electronics,4,19597,0.15,Mumbai,UPI,66629.8
+ORD10116,2024-04-26,1122,Mobile,Accessories,1,10895,0.2,Bangalore,Credit Card,8716.0
+ORD10117,2024-04-27,1004,Laptop,Accessories,1,16741,0.05,Hyderabad,Cash,15903.95
+ORD10118,2024-04-28,1040,Mouse,Electronics,3,38856,0.1,Mumbai,Credit Card,104911.2
+ORD10119,2024-04-29,1027,Keyboard,Accessories,5,28196,0.2,Kolkata,Credit Card,112784.0
+ORD10120,2024-04-30,1134,Mobile,Electronics,4,50618,0.1,Chennai,UPI,182224.8
+ORD10121,2024-05-01,1071,Smartwatch,Accessories,2,5444,0.05,Kolkata,UPI,10343.6
+ORD10122,2024-05-02,1011,Laptop,Accessories,4,46663,0.15,Kolkata,UPI,158654.2
+ORD10123,2024-05-03,1161,Keyboard,Electronics,2,20316,0.0,Chennai,UPI,40632.0
+ORD10124,2024-05-04,1032,Mouse,Electronics,5,50340,0.15,Kolkata,Net Banking,213945.0
+ORD10125,2024-05-05,1047,Keyboard,Electronics,2,37511,0.2,Mumbai,UPI,60017.6
+ORD10126,2024-05-06,1150,Laptop,Accessories,3,53353,0.0,Mumbai,Net Banking,160059.0
+ORD10127,2024-05-07,1061,Monitor,Electronics,3,25417,0.2,Mumbai,Net Banking,61000.8
+ORD10128,2024-05-08,1036,Monitor,Accessories,3,31695,0.05,Chennai,UPI,90330.75
+ORD10129,2024-05-09,1098,Keyboard,Accessories,3,22066,0.0,Kolkata,Debit Card,66198.0
+ORD10130,2024-05-10,1171,Headphones,Electronics,4,10416,0.2,Chennai,Cash,33331.2
+ORD10131,2024-05-11,1103,Smartwatch,Electronics,5,56356,0.05,Mumbai,Credit Card,267691.0
+ORD10132,2024-05-12,1034,Smartwatch,Accessories,2,21306,0.15,Kolkata,Net Banking,36220.2
+ORD10133,2024-05-13,1192,Keyboard,Accessories,2,10484,0.05,Kolkata,Cash,19919.6
+ORD10134,2024-05-14,1100,Mobile,Electronics,3,2259,0.1,Delhi,Debit Card,6099.3
+ORD10135,2024-05-15,1174,Mobile,Electronics,3,42449,0.05,Delhi,Credit Card,120979.65
+ORD10136,2024-05-16,1130,Smartwatch,Electronics,1,27338,0.05,Bangalore,Credit Card,25971.1
+ORD10137,2024-05-17,1000,Smartwatch,Electronics,5,2982,0.1,Hyderabad,Net Banking,13419.0
+ORD10138,2024-05-18,1004,Monitor,Electronics,4,24942,0.2,Delhi,UPI,79814.4
+ORD10139,2024-05-19,1141,Headphones,Accessories,2,34219,0.2,Chennai,Debit Card,54750.4
+ORD10140,2024-05-20,1102,Laptop,Accessories,1,58566,0.05,Delhi,Net Banking,55637.7
+ORD10141,2024-05-21,1026,Mobile,Accessories,1,28465,0.1,Bangalore,Debit Card,25618.5
+ORD10142,2024-05-22,1136,Smartwatch,Accessories,2,2579,0.1,Kolkata,UPI,4642.2
+ORD10143,2024-05-23,1014,Monitor,Electronics,4,3217,0.15,Bangalore,UPI,10937.8
+ORD10144,2024-05-24,1089,Mouse,Electronics,1,28452,0.2,Kolkata,Net Banking,22761.6
+ORD10145,2024-05-25,1041,Monitor,Electronics,1,21408,0.0,Kolkata,UPI,21408.0
+ORD10146,2024-05-26,1123,Mobile,Accessories,5,42960,0.2,Hyderabad,Cash,171840.0
+ORD10147,2024-05-27,1178,Mobile,Accessories,4,25361,0.2,Delhi,Credit Card,81155.2
+ORD10148,2024-05-28,1062,Monitor,Electronics,1,7811,0.15,Chennai,Net Banking,6639.35
+ORD10149,2024-05-29,1095,Laptop,Electronics,4,28571,0.0,Chennai,Debit Card,114284.0
+ORD10150,2024-05-30,1051,Keyboard,Accessories,2,24070,0.15,Mumbai,Cash,40919.0
+ORD10151,2024-05-31,1095,Mobile,Accessories,3,18949,0.0,Kolkata,Net Banking,56847.0
+ORD10152,2024-06-01,1131,Monitor,Electronics,1,34036,0.05,Chennai,UPI,32334.2
+ORD10153,2024-06-02,1150,Smartwatch,Electronics,5,38758,0.0,Hyderabad,UPI,193790.0
+ORD10154,2024-06-03,1142,Monitor,Accessories,2,48802,0.15,Kolkata,UPI,82963.4
+ORD10155,2024-06-04,1170,Headphones,Electronics,4,29365,0.2,Hyderabad,UPI,93968.0
+ORD10156,2024-06-05,1028,Keyboard,Electronics,2,7145,0.0,Chennai,Debit Card,14290.0
+ORD10157,2024-06-06,1035,Mouse,Electronics,1,54735,0.0,Chennai,Cash,54735.0
+ORD10158,2024-06-07,1012,Laptop,Accessories,4,38500,0.1,Mumbai,Credit Card,138600.0
+ORD10159,2024-06-08,1159,Mouse,Accessories,3,27237,0.2,Chennai,Debit Card,65368.8
+ORD10160,2024-06-09,1070,Keyboard,Accessories,2,11985,0.05,Kolkata,Debit Card,22771.5
+ORD10161,2024-06-10,1186,Keyboard,Accessories,1,39065,0.15,Kolkata,Credit Card,33205.25
+ORD10162,2024-06-11,1085,Keyboard,Accessories,5,26022,0.05,Kolkata,Credit Card,123604.5
+ORD10163,2024-06-12,1027,Mouse,Accessories,4,54578,0.2,Mumbai,UPI,174649.6
+ORD10164,2024-06-13,1065,Smartwatch,Accessories,2,55668,0.0,Mumbai,Debit Card,111336.0
+ORD10165,2024-06-14,1169,Keyboard,Electronics,2,52987,0.0,Chennai,Net Banking,105974.0
+ORD10166,2024-06-15,1044,Monitor,Electronics,3,12842,0.2,Bangalore,Credit Card,30820.8
+ORD10167,2024-06-16,1061,Mouse,Electronics,3,41306,0.0,Bangalore,Credit Card,123918.0
+ORD10168,2024-06-17,1184,Keyboard,Electronics,5,49270,0.0,Mumbai,Cash,246350.0
+ORD10169,2024-06-18,1133,Monitor,Electronics,5,13587,0.0,Chennai,Net Banking,67935.0
+ORD10170,2024-06-19,1027,Smartwatch,Electronics,1,38141,0.15,Bangalore,Net Banking,32419.85
+ORD10171,2024-06-20,1027,Headphones,Electronics,1,34749,0.15,Chennai,Credit Card,29536.65
+ORD10172,2024-06-21,1107,Smartwatch,Accessories,5,10593,0.1,Chennai,UPI,47668.5
+ORD10173,2024-06-22,1043,Keyboard,Accessories,5,55957,0.05,Chennai,Cash,265795.75
+ORD10174,2024-06-23,1083,Mouse,Electronics,4,53103,0.2,Delhi,Net Banking,169929.6
+ORD10175,2024-06-24,1029,Mobile,Electronics,3,47690,0.2,Kolkata,Credit Card,114456.0
+ORD10176,2024-06-25,1189,Keyboard,Accessories,1,16938,0.2,Chennai,Net Banking,13550.4
+ORD10177,2024-06-26,1074,Mobile,Electronics,3,40911,0.1,Delhi,Cash,110459.7
+ORD10178,2024-06-27,1127,Monitor,Electronics,3,26899,0.15,Mumbai,Cash,68592.45
+ORD10179,2024-06-28,1091,Headphones,Accessories,5,20346,0.1,Bangalore,Debit Card,91557.0
+ORD10180,2024-06-29,1189,Laptop,Electronics,4,16208,0.2,Kolkata,Credit Card,51865.6
+ORD10181,2024-06-30,1128,Smartwatch,Accessories,2,44539,0.05,Bangalore,Cash,84624.1
+ORD10182,2024-07-01,1120,Headphones,Electronics,4,50484,0.0,Kolkata,Debit Card,201936.0
+ORD10183,2024-07-02,1026,Keyboard,Accessories,4,45868,0.15,Bangalore,Debit Card,155951.2
+ORD10184,2024-07-03,1189,Mobile,Accessories,3,11498,0.15,Kolkata,Net Banking,29319.9
+ORD10185,2024-07-04,1120,Smartwatch,Accessories,4,55606,0.1,Bangalore,Net Banking,200181.6
+ORD10186,2024-07-05,1115,Mobile,Electronics,1,47563,0.15,Bangalore,Debit Card,40428.55
+ORD10187,2024-07-06,1002,Mouse,Accessories,3,31178,0.2,Bangalore,Net Banking,74827.2
+ORD10188,2024-07-07,1102,Mobile,Electronics,1,11182,0.2,Bangalore,Cash,8945.6
+ORD10189,2024-07-08,1197,Mouse,Electronics,2,49648,0.1,Mumbai,UPI,89366.4
+ORD10190,2024-07-09,1199,Monitor,Electronics,3,9019,0.2,Chennai,Cash,21645.6
+ORD10191,2024-07-10,1154,Smartwatch,Electronics,2,56873,0.05,Hyderabad,Debit Card,108058.7
+ORD10192,2024-07-11,1136,Smartwatch,Accessories,3,31980,0.1,Delhi,Debit Card,86346.0
+ORD10193,2024-07-12,1061,Laptop,Accessories,5,20194,0.05,Hyderabad,Cash,95921.5
+ORD10194,2024-07-13,1164,Keyboard,Electronics,4,3800,0.0,Hyderabad,Net Banking,15200.0
+ORD10195,2024-07-14,1050,Mouse,Electronics,5,7222,0.05,Kolkata,Net Banking,34304.5
+ORD10196,2024-07-15,1171,Laptop,Accessories,2,40486,0.0,Chennai,Debit Card,80972.0
+ORD10197,2024-07-16,1151,Mobile,Electronics,4,24660,0.0,Kolkata,Credit Card,98640.0
+ORD10198,2024-07-17,1058,Mobile,Accessories,3,20559,0.05,Chennai,Net Banking,58593.15
+ORD10199,2024-07-18,1117,Laptop,Electronics,4,36322,0.1,Chennai,Cash,130759.2
+ORD10200,2024-07-19,1159,Smartwatch,Electronics,1,14075,0.2,Bangalore,Net Banking,11260.0
+ORD10201,2024-07-20,1095,Mobile,Accessories,4,8470,0.2,Mumbai,Cash,27104.0
+ORD10202,2024-07-21,1179,Monitor,Electronics,1,35411,0.0,Bangalore,Debit Card,35411.0
+ORD10203,2024-07-22,1112,Monitor,Accessories,4,22091,0.0,Mumbai,Net Banking,88364.0
+ORD10204,2024-07-23,1061,Laptop,Electronics,1,32321,0.1,Kolkata,Cash,29088.9
+ORD10205,2024-07-24,1185,Mouse,Electronics,2,10003,0.15,Mumbai,Debit Card,17005.1
+ORD10206,2024-07-25,1051,Mouse,Electronics,5,48417,0.05,Kolkata,Credit Card,229980.75
+ORD10207,2024-07-26,1011,Laptop,Accessories,3,19422,0.0,Hyderabad,Cash,58266.0
+ORD10208,2024-07-27,1038,Mouse,Electronics,4,12675,0.2,Hyderabad,Credit Card,40560.0
+ORD10209,2024-07-28,1129,Smartwatch,Electronics,5,54199,0.1,Mumbai,Credit Card,243895.5
+ORD10210,2024-07-29,1130,Smartwatch,Electronics,3,55271,0.05,Mumbai,UPI,157522.35
+ORD10211,2024-07-30,1112,Mouse,Electronics,3,41624,0.1,Kolkata,Net Banking,112384.8
+ORD10212,2024-07-31,1100,Monitor,Accessories,1,56264,0.05,Bangalore,Cash,53450.8
+ORD10213,2024-08-01,1112,Mouse,Accessories,2,21889,0.05,Kolkata,Credit Card,41589.1
+ORD10214,2024-08-02,1183,Smartwatch,Electronics,2,48338,0.0,Bangalore,UPI,96676.0
+ORD10215,2024-08-03,1080,Headphones,Accessories,5,1322,0.1,Hyderabad,Debit Card,5949.0
+ORD10216,2024-08-04,1186,Keyboard,Electronics,2,17827,0.1,Chennai,Cash,32088.6
+ORD10217,2024-08-05,1112,Mobile,Electronics,4,47557,0.2,Mumbai,Credit Card,152182.4
+ORD10218,2024-08-06,1001,Headphones,Electronics,2,6650,0.2,Bangalore,Net Banking,10640.0
+ORD10219,2024-08-07,1129,Mouse,Accessories,5,4925,0.0,Kolkata,UPI,24625.0
+ORD10220,2024-08-08,1053,Monitor,Accessories,2,58618,0.0,Hyderabad,Credit Card,117236.0
+ORD10221,2024-08-09,1086,Laptop,Accessories,4,16532,0.15,Bangalore,Net Banking,56208.8
+ORD10222,2024-08-10,1128,Mouse,Accessories,1,2698,0.2,Kolkata,Credit Card,2158.4
+ORD10223,2024-08-11,1146,Monitor,Accessories,5,53894,0.05,Mumbai,Cash,255996.5
+ORD10224,2024-08-12,1125,Keyboard,Accessories,1,20579,0.1,Mumbai,Cash,18521.1
+ORD10225,2024-08-13,1129,Mouse,Accessories,1,36720,0.0,Delhi,Cash,36720.0
+ORD10226,2024-08-14,1052,Smartwatch,Accessories,1,42374,0.1,Chennai,UPI,38136.6
+ORD10227,2024-08-15,1171,Laptop,Accessories,3,14359,0.1,Delhi,Cash,38769.3
+ORD10228,2024-08-16,1159,Monitor,Electronics,3,50960,0.15,Hyderabad,Net Banking,129948.0
+ORD10229,2024-08-17,1197,Monitor,Accessories,1,31919,0.2,Bangalore,Credit Card,25535.2
+ORD10230,2024-08-18,1159,Monitor,Accessories,5,53829,0.0,Hyderabad,Debit Card,269145.0
+ORD10231,2024-08-19,1067,Keyboard,Accessories,4,9205,0.1,Kolkata,Net Banking,33138.0
+ORD10232,2024-08-20,1182,Mouse,Accessories,4,43380,0.0,Mumbai,Net Banking,173520.0
+ORD10233,2024-08-21,1183,Keyboard,Accessories,2,23736,0.05,Delhi,Cash,45098.4
+ORD10234,2024-08-22,1122,Mobile,Accessories,5,22919,0.15,Delhi,UPI,97405.75
+ORD10235,2024-08-23,1144,Mobile,Accessories,3,20478,0.05,Delhi,Credit Card,58362.3
+ORD10236,2024-08-24,1037,Mouse,Accessories,1,38109,0.0,Hyderabad,UPI,38109.0
+ORD10237,2024-08-25,1023,Smartwatch,Accessories,2,15858,0.0,Mumbai,Credit Card,31716.0
+ORD10238,2024-08-26,1068,Keyboard,Accessories,4,34677,0.2,Bangalore,Credit Card,110966.4
+ORD10239,2024-08-27,1115,Laptop,Accessories,3,29878,0.1,Kolkata,UPI,80670.6
+ORD10240,2024-08-28,1097,Monitor,Electronics,3,37834,0.1,Bangalore,Net Banking,102151.8
+ORD10241,2024-08-29,1197,Monitor,Electronics,1,11882,0.05,Hyderabad,Credit Card,11287.9
+ORD10242,2024-08-30,1138,Mouse,Accessories,4,54143,0.15,Kolkata,UPI,184086.2
+ORD10243,2024-08-31,1143,Smartwatch,Accessories,5,51207,0.1,Delhi,Credit Card,230431.5
+ORD10244,2024-09-01,1096,Mobile,Electronics,3,15096,0.2,Chennai,Debit Card,36230.4
+ORD10245,2024-09-02,1123,Mobile,Accessories,1,34072,0.05,Hyderabad,Net Banking,32368.4
+ORD10246,2024-09-03,1186,Monitor,Electronics,5,13721,0.05,Hyderabad,Cash,65174.75
+ORD10247,2024-09-04,1069,Mouse,Electronics,4,1779,0.2,Mumbai,Credit Card,5692.8
+ORD10248,2024-09-05,1092,Keyboard,Electronics,3,46460,0.15,Bangalore,Debit Card,118473.0
+ORD10249,2024-09-06,1002,Mobile,Electronics,5,7583,0.2,Hyderabad,Cash,30332.0
+ORD10250,2024-09-07,1147,Keyboard,Electronics,5,55638,0.15,Hyderabad,Cash,236461.5
+ORD10251,2024-09-08,1186,Smartwatch,Accessories,5,55271,0.2,Delhi,Credit Card,221084.0
+ORD10252,2024-09-09,1163,Mobile,Electronics,3,44361,0.2,Delhi,UPI,106466.4
+ORD10253,2024-09-10,1146,Mobile,Accessories,3,18271,0.0,Kolkata,Credit Card,54813.0
+ORD10254,2024-09-11,1089,Headphones,Accessories,2,30475,0.05,Chennai,Debit Card,57902.5
+ORD10255,2024-09-12,1194,Mobile,Electronics,4,46148,0.2,Mumbai,Cash,147673.6
+ORD10256,2024-09-13,1146,Laptop,Electronics,1,48785,0.2,Chennai,Credit Card,39028.0
+ORD10257,2024-09-14,1147,Mouse,Accessories,5,19563,0.1,Kolkata,UPI,88033.5
+ORD10258,2024-09-15,1095,Mouse,Electronics,2,2606,0.05,Delhi,Credit Card,4951.4
+ORD10259,2024-09-16,1198,Keyboard,Electronics,1,25057,0.1,Bangalore,Net Banking,22551.3
+ORD10260,2024-09-17,1051,Smartwatch,Accessories,2,49354,0.05,Delhi,UPI,93772.6
+ORD10261,2024-09-18,1160,Mobile,Accessories,3,21107,0.1,Mumbai,Debit Card,56988.9
+ORD10262,2024-09-19,1167,Laptop,Electronics,5,38099,0.2,Delhi,Cash,152396.0
+ORD10263,2024-09-20,1127,Keyboard,Accessories,1,52420,0.2,Mumbai,Credit Card,41936.0
+ORD10264,2024-09-21,1038,Headphones,Electronics,1,29029,0.0,Mumbai,UPI,29029.0
+ORD10265,2024-09-22,1081,Keyboard,Electronics,1,36454,0.1,Mumbai,Net Banking,32808.6
+ORD10266,2024-09-23,1103,Keyboard,Electronics,1,28356,0.15,Kolkata,UPI,24102.6
+ORD10267,2024-09-24,1128,Mobile,Accessories,1,3073,0.0,Mumbai,Net Banking,3073.0
+ORD10268,2024-09-25,1010,Headphones,Accessories,2,13308,0.1,Mumbai,Debit Card,23954.4
+ORD10269,2024-09-26,1184,Keyboard,Accessories,5,35867,0.1,Bangalore,Cash,161401.5
+ORD10270,2024-09-27,1177,Laptop,Accessories,3,37301,0.0,Chennai,Debit Card,111903.0
+ORD10271,2024-09-28,1150,Laptop,Accessories,3,41696,0.2,Hyderabad,Credit Card,100070.4
+ORD10272,2024-09-29,1158,Mouse,Electronics,3,34572,0.1,Chennai,UPI,93344.4
+ORD10273,2024-09-30,1041,Headphones,Electronics,3,24252,0.2,Mumbai,Net Banking,58204.8
+ORD10274,2024-10-01,1098,Headphones,Electronics,2,55529,0.0,Bangalore,Net Banking,111058.0
+ORD10275,2024-10-02,1006,Mouse,Electronics,4,18185,0.2,Delhi,UPI,58192.0
+ORD10276,2024-10-03,1143,Keyboard,Accessories,5,52193,0.05,Bangalore,UPI,247916.75
+ORD10277,2024-10-04,1089,Headphones,Electronics,1,51703,0.15,Mumbai,Credit Card,43947.55
+ORD10278,2024-10-05,1111,Laptop,Accessories,4,56461,0.1,Bangalore,Debit Card,203259.6
+ORD10279,2024-10-06,1059,Laptop,Electronics,3,41901,0.15,Bangalore,Net Banking,106847.55
+ORD10280,2024-10-07,1112,Mobile,Accessories,4,59920,0.2,Mumbai,Credit Card,191744.0
+ORD10281,2024-10-08,1001,Headphones,Accessories,5,11872,0.1,Kolkata,Debit Card,53424.0
+ORD10282,2024-10-09,1128,Keyboard,Electronics,1,9496,0.2,Bangalore,Credit Card,7596.8
+ORD10283,2024-10-10,1047,Mouse,Electronics,1,16958,0.05,Hyderabad,Net Banking,16110.1
+ORD10284,2024-10-11,1139,Mouse,Electronics,5,56633,0.0,Hyderabad,UPI,283165.0
+ORD10285,2024-10-12,1196,Keyboard,Electronics,5,32389,0.1,Bangalore,UPI,145750.5
+ORD10286,2024-10-13,1036,Smartwatch,Accessories,3,27165,0.05,Kolkata,Debit Card,77420.25
+ORD10287,2024-10-14,1159,Monitor,Electronics,1,38743,0.05,Delhi,Cash,36805.85
+ORD10288,2024-10-15,1008,Mobile,Electronics,4,57884,0.1,Mumbai,Debit Card,208382.4
+ORD10289,2024-10-16,1098,Mouse,Accessories,2,32153,0.2,Hyderabad,Cash,51444.8
+ORD10290,2024-10-17,1146,Headphones,Electronics,2,27157,0.05,Delhi,Credit Card,51598.3
+ORD10291,2024-10-18,1047,Mobile,Electronics,5,40452,0.15,Bangalore,Credit Card,171921.0
+ORD10292,2024-10-19,1130,Headphones,Electronics,3,22680,0.05,Delhi,Net Banking,64638.0
+ORD10293,2024-10-20,1147,Smartwatch,Electronics,2,32396,0.2,Chennai,Cash,51833.6
+ORD10294,2024-10-21,1151,Laptop,Electronics,1,56793,0.2,Hyderabad,Net Banking,45434.4
+ORD10295,2024-10-22,1053,Mobile,Accessories,5,13375,0.15,Bangalore,UPI,56843.75
+ORD10296,2024-10-23,1119,Mouse,Electronics,4,2122,0.05,Mumbai,Cash,8063.6
+ORD10297,2024-10-24,1160,Mobile,Electronics,5,49256,0.2,Kolkata,Debit Card,197024.0
+ORD10298,2024-10-25,1151,Mobile,Electronics,4,41309,0.1,Bangalore,UPI,148712.4
+ORD10299,2024-10-26,1115,Mobile,Electronics,5,17225,0.0,Mumbai,UPI,86125.0
